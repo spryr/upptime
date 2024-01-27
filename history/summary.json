@@ -4,19 +4,19 @@
     "url": "https://spryr.com",
     "icon": "https://icons.duckduckgo.com/ip3/spryr.com.ico",
     "slug": "spryr",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "97.33%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
     "time": 3852,
     "timeDay": 7783,
     "timeWeek": 4696,
     "timeMonth": 3852,
     "timeYear": 3852,
     "dailyMinutesDown": {
-      "2024-01-27": 38
+      "2024-01-27": 28
     }
   }
 ]
