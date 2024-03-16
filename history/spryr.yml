@@ -1,7 +1,7 @@
 url: https://spryr.com
-status: up
+status: degraded
 code: 200
-responseTime: 2245
-lastUpdated: 2024-03-16T00:43:11.808Z
+responseTime: 3361
+lastUpdated: 2024-03-16T01:12:29.249Z
 startTime: 2024-01-17T13:31:14.410Z
 generator: Upptime <https://github.com/upptime/upptime>
