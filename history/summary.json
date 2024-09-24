@@ -6,8 +6,8 @@
     "slug": "spryr",
     "status": "degraded",
     "uptime": "98.25%",
-    "uptimeDay": "96.52%",
-    "uptimeWeek": "94.01%",
+    "uptimeDay": "95.63%",
+    "uptimeWeek": "93.88%",
     "uptimeMonth": "97.28%",
     "uptimeYear": "98.25%",
     "time": 3441,
@@ -16,6 +16,7 @@
     "timeMonth": 3472,
     "timeYear": 3441,
     "dailyMinutesDown": {
+      "2024-09-24": 13,
       "2024-09-23": 50,
       "2024-09-22": 119,
       "2024-09-21": 62,
