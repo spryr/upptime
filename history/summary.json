@@ -4,16 +4,16 @@
     "url": "https://spryr.com",
     "icon": "https://spryr.com/favicon-spryr.png",
     "slug": "spryr",
-    "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "89.76%",
+    "status": "degraded",
+    "uptime": "99.43%",
+    "uptimeDay": "89.75%",
     "uptimeWeek": "92.27%",
     "uptimeMonth": "95.00%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.43%",
     "time": 3519,
-    "timeDay": 4134,
-    "timeWeek": 3913,
-    "timeMonth": 3798,
+    "timeDay": 4220,
+    "timeWeek": 3917,
+    "timeMonth": 3799,
     "timeYear": 3519,
     "dailyMinutesDown": {
       "2024-10-14": 119,
@@ -46,8 +46,7 @@
       "2024-09-16": 57,
       "2024-09-15": 53,
       "2024-09-14": 32,
-      "2024-09-13": 21,
-      "2024-09-12": 25
+      "2024-09-13": 21
     }
   }
 ]
