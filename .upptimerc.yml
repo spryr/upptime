@@ -6,7 +6,21 @@ sites:
   - name: Spryr
     url: https://spryr.com
     icon: https://spryr.com/favicon-spryr.png
-    maxResponseTime: 3000
+    maxResponseTime: 5000
+  - name: CPanel
+    url: https://cpanel.sharelifegateway.com/
+    icon: https://cpanel.sharelifegateway.com/favicon.ico
+    maxResponseTime: 5000
+  - name: VCSphere.vip
+    url: https://vcsphere.vip/
+    icon: https://vcsphere.vip/Content/Resources/vcsphere_square_transparent_1.png
+    maxResponseTime: 5000
+  - name: LXTR.net
+    url: https://lxtr.net/
+    icon: https://lxtr.net/Content/Resources/lxtrqr3.jpg
+    maxResponseTime: 5000
+
+    
 
 assignees:
   - geahaad
