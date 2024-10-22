@@ -5,18 +5,18 @@
     "icon": "https://spryr.com/favicon-spryr.png",
     "slug": "spryr",
     "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "93.55%",
-    "uptimeWeek": "90.61%",
-    "uptimeMonth": "94.66%",
-    "uptimeYear": "99.42%",
+    "uptime": "99.41%",
+    "uptimeDay": "95.36%",
+    "uptimeWeek": "91.61%",
+    "uptimeMonth": "94.63%",
+    "uptimeYear": "99.41%",
     "time": 3552,
-    "timeDay": 4272,
-    "timeWeek": 3960,
-    "timeMonth": 3896,
+    "timeDay": 4186,
+    "timeWeek": 3941,
+    "timeMonth": 3892,
     "timeYear": 3552,
     "dailyMinutesDown": {
-      "2024-10-21": 77,
+      "2024-10-21": 67,
       "2024-10-20": 16,
       "2024-10-19": 210,
       "2024-10-18": 117,
@@ -41,7 +41,8 @@
       "2024-09-29": 54,
       "2024-09-28": 16,
       "2024-09-27": 93,
-      "2024-09-25": 84
+      "2024-09-25": 84,
+      "2024-09-24": 21
     }
   },
   {
@@ -55,11 +56,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 800,
-    "timeDay": 800,
-    "timeWeek": 800,
-    "timeMonth": 800,
-    "timeYear": 800,
+    "time": 510,
+    "timeDay": 510,
+    "timeWeek": 510,
+    "timeMonth": 510,
+    "timeYear": 510,
     "dailyMinutesDown": {}
   },
   {
@@ -73,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2954,
-    "timeDay": 2954,
-    "timeWeek": 2954,
-    "timeMonth": 2954,
-    "timeYear": 2954,
+    "time": 1940,
+    "timeDay": 1940,
+    "timeWeek": 1940,
+    "timeMonth": 1940,
+    "timeYear": 1940,
     "dailyMinutesDown": {}
   },
   {
@@ -91,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 746,
-    "timeDay": 746,
-    "timeWeek": 746,
-    "timeMonth": 746,
-    "timeYear": 746,
+    "time": 650,
+    "timeDay": 650,
+    "timeWeek": 650,
+    "timeMonth": 650,
+    "timeYear": 650,
     "dailyMinutesDown": {}
   }
 ]
