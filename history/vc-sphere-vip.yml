@@ -1,7 +1,7 @@
 url: https://vcsphere.vip/
-status: up
+status: degraded
 code: 200
-responseTime: 3954
-lastUpdated: 2024-11-15T10:42:44.112Z
+responseTime: 7308
+lastUpdated: 2024-11-15T13:48:56.590Z
 startTime: 2024-10-21T09:45:59.759Z
 generator: Upptime <https://github.com/upptime/upptime>
