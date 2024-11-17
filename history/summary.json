@@ -6,17 +6,16 @@
     "slug": "spryr",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "98.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "98.60%",
     "uptimeYear": "99.47%",
     "time": 3601,
-    "timeDay": 3974,
-    "timeWeek": 5275,
-    "timeMonth": 4369,
+    "timeDay": 4031,
+    "timeWeek": 5238,
+    "timeMonth": 4393,
     "timeYear": 3601,
     "dailyMinutesDown": {
-      "2024-11-16": 7,
       "2024-11-12": 25,
       "2024-11-06": 16,
       "2024-11-03": 18,
@@ -46,7 +45,8 @@
       "2024-10-02": 29,
       "2024-10-01": 16,
       "2024-09-30": 18,
-      "2024-09-29": 54
+      "2024-09-29": 54,
+      "2024-09-28": 16
     }
   },
   {
@@ -60,11 +60,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 314,
-    "timeDay": 201,
-    "timeWeek": 279,
-    "timeMonth": 314,
-    "timeYear": 314,
+    "time": 320,
+    "timeDay": 475,
+    "timeWeek": 307,
+    "timeMonth": 320,
+    "timeYear": 320,
     "dailyMinutesDown": {}
   },
   {
@@ -78,11 +78,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1331,
-    "timeDay": 282,
-    "timeWeek": 2266,
-    "timeMonth": 1331,
-    "timeYear": 1331,
+    "time": 1311,
+    "timeDay": 691,
+    "timeWeek": 2301,
+    "timeMonth": 1311,
+    "timeYear": 1311,
     "dailyMinutesDown": {}
   },
   {
@@ -96,11 +96,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 516,
-    "timeDay": 291,
-    "timeWeek": 477,
-    "timeMonth": 516,
-    "timeYear": 516,
+    "time": 526,
+    "timeDay": 791,
+    "timeWeek": 540,
+    "timeMonth": 526,
+    "timeYear": 526,
     "dailyMinutesDown": {}
   }
 ]
