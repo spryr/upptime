@@ -91,19 +91,19 @@
     "url": "https://lxtr.net/",
     "icon": "https://lxtr.net/Content/Resources/lxtrqr3.jpg",
     "slug": "lxtr-net",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 778,
-    "timeDay": 5928,
-    "timeWeek": 1773,
-    "timeMonth": 897,
-    "timeYear": 778,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 775,
+    "timeDay": 4171,
+    "timeWeek": 1662,
+    "timeMonth": 890,
+    "timeYear": 775,
     "dailyMinutesDown": {
-      "2024-12-03": 0
+      "2024-12-03": 7
     }
   }
 ]
