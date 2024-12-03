@@ -6,17 +6,16 @@
     "slug": "spryr",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.50%",
     "time": 3625,
-    "timeDay": 6710,
-    "timeWeek": 5261,
-    "timeMonth": 4896,
+    "timeDay": 7179,
+    "timeWeek": 5331,
+    "timeMonth": 4910,
     "timeYear": 3625,
     "dailyMinutesDown": {
-      "2024-12-03": 8,
       "2024-12-02": 18,
       "2024-11-29": 23,
       "2024-11-21": 17,
@@ -47,7 +46,8 @@
       "2024-10-06": 72,
       "2024-10-05": 55,
       "2024-10-04": 76,
-      "2024-10-03": 58
+      "2024-10-03": 58,
+      "2024-10-02": 29
     }
   },
   {
@@ -91,17 +91,19 @@
     "url": "https://lxtr.net/",
     "icon": "https://lxtr.net/Content/Resources/lxtrqr3.jpg",
     "slug": "lxtr-net",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 542,
-    "timeDay": 482,
-    "timeWeek": 573,
-    "timeMonth": 559,
-    "timeYear": 542,
-    "dailyMinutesDown": {}
+    "time": 778,
+    "timeDay": 5928,
+    "timeWeek": 1773,
+    "timeMonth": 897,
+    "timeYear": 778,
+    "dailyMinutesDown": {
+      "2024-12-03": 0
+    }
   }
 ]
