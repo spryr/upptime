@@ -55,18 +55,20 @@
     "url": "https://cpanel.sharelifegateway.com/",
     "icon": "https://cpanel.sharelifegateway.com/favicon.ico",
     "slug": "c-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 316,
-    "timeDay": 282,
-    "timeWeek": 357,
-    "timeMonth": 306,
-    "timeYear": 316,
-    "dailyMinutesDown": {}
+    "time": 330,
+    "timeDay": 616,
+    "timeWeek": 431,
+    "timeMonth": 327,
+    "timeYear": 330,
+    "dailyMinutesDown": {
+      "2024-12-04": 1
+    }
   },
   {
     "name": "VCSphere.vip",
