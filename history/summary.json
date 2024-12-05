@@ -6,17 +6,16 @@
     "slug": "spryr",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.51%",
     "time": 3630,
-    "timeDay": 3789,
+    "timeDay": 3633,
     "timeWeek": 5482,
-    "timeMonth": 4978,
+    "timeMonth": 4980,
     "timeYear": 3630,
     "dailyMinutesDown": {
-      "2024-12-05": 8,
       "2024-12-04": 16,
       "2024-12-02": 18,
       "2024-11-29": 23,
@@ -48,7 +47,7 @@
       "2024-10-06": 72,
       "2024-10-05": 55,
       "2024-10-04": 76,
-      "2024-10-03": 21
+      "2024-10-03": 58
     }
   },
   {
@@ -74,10 +73,10 @@
     "url": "https://vcsphere.vip/",
     "icon": "https://vcsphere.vip/Content/Resources/vcsphere_square_transparent_1.png",
     "slug": "vc-sphere-vip",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1065,
@@ -85,7 +84,9 @@
     "timeWeek": 705,
     "timeMonth": 1214,
     "timeYear": 1065,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-05": 1
+    }
   },
   {
     "name": "LXTR.net",
