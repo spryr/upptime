@@ -11,9 +11,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.55%",
     "time": 3670,
-    "timeDay": 3620,
-    "timeWeek": 4756,
-    "timeMonth": 4728,
+    "timeDay": 2854,
+    "timeWeek": 4519,
+    "timeMonth": 4743,
     "timeYear": 3670,
     "dailyMinutesDown": {
       "2024-12-19": 38,
@@ -75,18 +75,20 @@
     "url": "https://vcsphere.vip/",
     "icon": "https://vcsphere.vip/Content/Resources/vcsphere_square_transparent_1.png",
     "slug": "vc-sphere-vip",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 838,
-    "timeDay": 670,
-    "timeWeek": 496,
-    "timeMonth": 513,
-    "timeYear": 838,
-    "dailyMinutesDown": {}
+    "time": 895,
+    "timeDay": 3230,
+    "timeWeek": 1157,
+    "timeMonth": 678,
+    "timeYear": 895,
+    "dailyMinutesDown": {
+      "2025-01-09": 0
+    }
   },
   {
     "name": "LXTR.net",
