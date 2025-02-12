@@ -3,9 +3,13 @@ owner: vcsphere # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
-  - name: Spryr
+  - name: Spryr B2B
     url: https://spryr.com
-    icon: https://spryr.com/favicon-spryr.png
+    icon: https://spryr.com/wp-content/uploads/2024/10/cropped-color-logo-192x192.png
+    maxResponseTime: 2000
+  - name: Spryr Booking
+    url: https://booking.spryr.com
+    icon: https://booking.spryr.com/favicon-spryr.png
     maxResponseTime: 5000
   - name: CPanel
     url: https://cpanel.sharelifegateway.com/
@@ -15,12 +19,26 @@ sites:
     url: https://vcsphere.vip/
     icon: https://vcsphere.vip/Content/Resources/vcsphere_square_transparent_1.png
     maxResponseTime: 5000
-  - name: LXTR.net
+  - name: LXTR
     url: https://lxtr.net/
     icon: https://lxtr.net/Content/Resources/lxtrqr3.jpg
     maxResponseTime: 5000
-
-    
+  - name: Voyanto.net
+    url: https://voyanto.net/
+    icon: https://voyanto.net/Content/Resources/blue.png
+    maxResponseTime: 5000
+  - name: VCSphere Insights
+    url: https://vcsphereinsights.com
+    icon: https://vcsphereinsights.com/wp-content/uploads/2025/01/cropped-vcspherelogo-1-192x192.png
+    maxResponseTime: 2000
+  - name: Voyanto Insights
+    url: https://voyantoinsights.com
+    icon: https://voyantoinsights.com/wp-content/uploads/2025/01/cropped-blue-192x192.png
+    maxResponseTime: 2000
+  - name: LXTR Insights
+    url: https://lxtrinsights.com
+    icon: https://lxtrinsights.com/wp-content/uploads/2025/01/cropped-lxtr-1-192x192.png
+    maxResponseTime: 2000
 
 assignees:
   - geahaad
