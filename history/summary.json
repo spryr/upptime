@@ -22,19 +22,19 @@
     "url": "https://booking.spryr.com",
     "icon": "https://booking.spryr.com/favicon-spryr.png",
     "slug": "spryr-booking",
-    "status": "degraded",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 4088,
-    "timeDay": 4088,
-    "timeWeek": 4088,
-    "timeMonth": 4088,
-    "timeYear": 4088,
+    "status": "up",
+    "uptime": "99.20%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.20%",
+    "time": 3973,
+    "timeDay": 3973,
+    "timeWeek": 3973,
+    "timeMonth": 3973,
+    "timeYear": 3973,
     "dailyMinutesDown": {
-      "2025-02-13": 0
+      "2025-02-13": 9
     }
   },
   {
