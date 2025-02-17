@@ -112,18 +112,20 @@
     "url": "https://vcsphereinsights.com",
     "icon": "https://vcsphereinsights.com/wp-content/uploads/2025/01/cropped-vcspherelogo-1-192x192.png",
     "slug": "vc-sphere-insights",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 508,
-    "timeDay": 473,
-    "timeWeek": 508,
-    "timeMonth": 508,
-    "timeYear": 508,
-    "dailyMinutesDown": {}
+    "time": 448,
+    "timeDay": 281,
+    "timeWeek": 448,
+    "timeMonth": 448,
+    "timeYear": 448,
+    "dailyMinutesDown": {
+      "2025-02-17": 0
+    }
   },
   {
     "name": "Voyanto Insights",
