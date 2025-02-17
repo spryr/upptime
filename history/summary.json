@@ -130,19 +130,19 @@
     "url": "https://voyantoinsights.com",
     "icon": "https://voyantoinsights.com/wp-content/uploads/2025/01/cropped-blue-192x192.png",
     "slug": "voyanto-insights",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 526,
-    "timeDay": 379,
-    "timeWeek": 526,
-    "timeMonth": 526,
-    "timeYear": 526,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 547,
+    "timeDay": 483,
+    "timeWeek": 547,
+    "timeMonth": 547,
+    "timeYear": 547,
     "dailyMinutesDown": {
-      "2025-02-17": 0
+      "2025-02-17": 8
     }
   },
   {
@@ -150,19 +150,19 @@
     "url": "https://lxtrinsights.com",
     "icon": "https://lxtrinsights.com/wp-content/uploads/2025/01/cropped-lxtr-1-192x192.png",
     "slug": "lxtr-insights",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 326,
-    "timeWeek": 489,
-    "timeMonth": 489,
-    "timeYear": 489,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 501,
+    "timeDay": 411,
+    "timeWeek": 501,
+    "timeMonth": 501,
+    "timeYear": 501,
     "dailyMinutesDown": {
-      "2025-02-17": 0
+      "2025-02-17": 8
     }
   }
 ]
