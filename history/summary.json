@@ -5,18 +5,18 @@
     "icon": "https://spryr.com/wp-content/uploads/2024/10/cropped-color-logo-192x192.png",
     "slug": "spryr-b2-b",
     "status": "down",
-    "uptime": "70.97%",
+    "uptime": "70.86%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "70.97%",
-    "uptimeMonth": "70.97%",
-    "uptimeYear": "70.97%",
+    "uptimeWeek": "70.86%",
+    "uptimeMonth": "70.86%",
+    "uptimeYear": "70.86%",
     "time": 447,
     "timeDay": 124,
     "timeWeek": 447,
     "timeMonth": 447,
     "timeYear": 447,
     "dailyMinutesDown": {
-      "2025-02-19": 467,
+      "2025-02-19": 481,
       "2025-02-18": 1440,
       "2025-02-17": 914
     }
@@ -27,18 +27,18 @@
     "icon": "https://booking.spryr.com/favicon-spryr.png",
     "slug": "spryr-booking",
     "status": "down",
-    "uptime": "70.97%",
+    "uptime": "70.86%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "70.97%",
-    "uptimeMonth": "70.97%",
-    "uptimeYear": "70.97%",
+    "uptimeWeek": "70.86%",
+    "uptimeMonth": "70.86%",
+    "uptimeYear": "70.86%",
     "time": 2314,
     "timeDay": 1796,
     "timeWeek": 2314,
     "timeMonth": 2314,
     "timeYear": 2314,
     "dailyMinutesDown": {
-      "2025-02-19": 467,
+      "2025-02-19": 481,
       "2025-02-18": 1440,
       "2025-02-17": 914
     }
@@ -84,19 +84,19 @@
     "url": "https://lxtr.net/",
     "icon": "https://lxtr.net/Content/Resources/lxtrqr3.jpg",
     "slug": "lxtr",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 450,
-    "timeDay": 498,
-    "timeWeek": 450,
-    "timeMonth": 450,
-    "timeYear": 450,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 593,
+    "timeDay": 1118,
+    "timeWeek": 593,
+    "timeMonth": 593,
+    "timeYear": 593,
     "dailyMinutesDown": {
-      "2025-02-19": 1
+      "2025-02-19": 13
     }
   },
   {
@@ -104,9 +104,9 @@
     "url": "https://voyanto.net/",
     "icon": "https://voyanto.net/Content/Resources/blue.png",
     "slug": "voyanto-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -115,7 +115,9 @@
     "timeWeek": 451,
     "timeMonth": 451,
     "timeYear": 451,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-19": 0
+    }
   },
   {
     "name": "VCSphere Insights",
