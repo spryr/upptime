@@ -1,7 +1,7 @@
 url: https://booking.spryr.com
-status: down
-code: 403
-responseTime: 141
-lastUpdated: 2025-03-09T06:39:46.154Z
+status: degraded
+code: 200
+responseTime: 7206
+lastUpdated: 2025-03-09T06:55:16.617Z
 startTime: 2025-02-12T13:49:50.463Z
 generator: Upptime <https://github.com/upptime/upptime>
