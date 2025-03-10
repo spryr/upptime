@@ -4,12 +4,12 @@
     "url": "https://spryr.com",
     "icon": "https://spryr.com/wp-content/uploads/2024/10/cropped-color-logo-192x192.png",
     "slug": "spryr-b2-b",
-    "status": "up",
-    "uptime": "87.32%",
-    "uptimeDay": "28.18%",
-    "uptimeWeek": "53.08%",
-    "uptimeMonth": "87.32%",
-    "uptimeYear": "87.32%",
+    "status": "down",
+    "uptime": "87.49%",
+    "uptimeDay": "28.16%",
+    "uptimeWeek": "53.69%",
+    "uptimeMonth": "87.49%",
+    "uptimeYear": "87.49%",
     "time": 295,
     "timeDay": 288,
     "timeWeek": 279,
@@ -21,7 +21,7 @@
       "2025-03-08": 838,
       "2025-03-07": 1026,
       "2025-03-06": 997,
-      "2025-03-05": 294
+      "2025-03-05": 232
     }
   },
   {
@@ -41,7 +41,7 @@
     "timeMonth": 3568,
     "timeYear": 3568,
     "dailyMinutesDown": {
-      "2025-03-10": 679,
+      "2025-03-10": 687,
       "2025-03-09": 1376,
       "2025-03-08": 1339,
       "2025-03-07": 1319,
