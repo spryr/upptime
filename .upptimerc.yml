@@ -6,11 +6,11 @@ sites:
   - name: Spryr B2B
     url: https://spryr.com
     icon: https://spryr.com/wp-content/uploads/2024/10/cropped-color-logo-192x192.png
-    maxResponseTime: 2000
+    maxResponseTime: 5000
   - name: Spryr Booking
     url: https://booking.spryr.com
     icon: https://booking.spryr.com/favicon-spryr.png
-    maxResponseTime: 5000
+    maxResponseTime: 15000
   - name: CPanel
     url: https://cpanel.sharelifegateway.com/
     icon: https://cpanel.sharelifegateway.com/favicon.ico
@@ -30,15 +30,15 @@ sites:
   - name: VCSphere Insights
     url: https://vcsphereinsights.com
     icon: https://vcsphereinsights.com/wp-content/uploads/2025/01/cropped-vcspherelogo-1-192x192.png
-    maxResponseTime: 2000
+    maxResponseTime: 5000
   - name: Voyanto Insights
     url: https://voyantoinsights.com
     icon: https://voyantoinsights.com/wp-content/uploads/2025/01/cropped-blue-192x192.png
-    maxResponseTime: 2000
+    maxResponseTime: 5000
   - name: LXTR Insights
     url: https://lxtrinsights.com
     icon: https://lxtrinsights.com/wp-content/uploads/2025/01/cropped-lxtr-1-192x192.png
-    maxResponseTime: 2000
+    maxResponseTime: 5000
 
 assignees:
   - geahaad
