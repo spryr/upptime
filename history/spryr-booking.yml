@@ -1,7 +1,7 @@
 url: https://booking.spryr.com
-status: degraded
+status: up
 code: 200
-responseTime: 28668
-lastUpdated: 2025-03-21T05:49:54.969Z
+responseTime: 11835
+lastUpdated: 2025-03-21T05:57:28.509Z
 startTime: 2025-02-12T13:49:50.463Z
 generator: Upptime <https://github.com/upptime/upptime>
