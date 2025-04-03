@@ -5,18 +5,18 @@
     "icon": "https://spryr.com/wp-content/uploads/2024/10/cropped-color-logo-192x192.png",
     "slug": "spryr-b2-b",
     "status": "up",
-    "uptime": "94.90%",
-    "uptimeDay": "95.97%",
-    "uptimeWeek": "69.67%",
-    "uptimeMonth": "91.60%",
-    "uptimeYear": "94.90%",
+    "uptime": "94.77%",
+    "uptimeDay": "96.74%",
+    "uptimeWeek": "70.30%",
+    "uptimeMonth": "91.38%",
+    "uptimeYear": "94.77%",
     "time": 291,
-    "timeDay": 453,
-    "timeWeek": 313,
+    "timeDay": 415,
+    "timeWeek": 312,
     "timeMonth": 286,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2025-04-03": 58,
+      "2025-04-03": 47,
       "2025-04-02": 15,
       "2025-04-01": 263,
       "2025-03-31": 760,
@@ -24,7 +24,7 @@
       "2025-03-29": 477,
       "2025-03-28": 633,
       "2025-03-27": 545,
-      "2025-03-26": 301
+      "2025-03-26": 408
     }
   },
   {
@@ -32,17 +32,17 @@
     "url": "https://booking.spryr.com",
     "icon": "https://booking.spryr.com/favicon-spryr.png",
     "slug": "spryr-booking",
-    "status": "up",
-    "uptime": "95.12%",
-    "uptimeDay": "89.24%",
-    "uptimeWeek": "65.06%",
-    "uptimeMonth": "91.96%",
-    "uptimeYear": "95.12%",
-    "time": 4249,
-    "timeDay": 3476,
-    "timeWeek": 4207,
-    "timeMonth": 4455,
-    "timeYear": 4249,
+    "status": "down",
+    "uptime": "95.17%",
+    "uptimeDay": "89.22%",
+    "uptimeWeek": "65.39%",
+    "uptimeMonth": "92.04%",
+    "uptimeYear": "95.17%",
+    "time": 4246,
+    "timeDay": 3321,
+    "timeWeek": 4190,
+    "timeMonth": 4451,
+    "timeYear": 4246,
     "dailyMinutesDown": {
       "2025-04-03": 135,
       "2025-04-02": 143,
@@ -51,7 +51,7 @@
       "2025-03-30": 729,
       "2025-03-29": 707,
       "2025-03-28": 740,
-      "2025-03-27": 111
+      "2025-03-27": 77
     }
   },
   {
