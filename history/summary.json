@@ -4,19 +4,19 @@
     "url": "https://spryr.com",
     "icon": "https://spryr.com/wp-content/uploads/2024/10/cropped-color-logo-192x192.png",
     "slug": "spryr-b2-b",
-    "status": "up",
-    "uptime": "95.41%",
-    "uptimeDay": "93.71%",
+    "status": "down",
+    "uptime": "95.45%",
+    "uptimeDay": "93.67%",
     "uptimeWeek": "80.92%",
-    "uptimeMonth": "92.10%",
-    "uptimeYear": "95.41%",
+    "uptimeMonth": "92.17%",
+    "uptimeYear": "95.45%",
     "time": 296,
-    "timeDay": 341,
-    "timeWeek": 340,
+    "timeDay": 332,
+    "timeWeek": 338,
     "timeMonth": 295,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2025-04-05": 91,
+      "2025-04-05": 92,
       "2025-04-04": 97,
       "2025-04-03": 47,
       "2025-04-02": 15,
@@ -25,7 +25,7 @@
       "2025-03-30": 628,
       "2025-03-29": 477,
       "2025-03-28": 633,
-      "2025-03-27": 449
+      "2025-03-27": 418
     }
   },
   {
@@ -34,18 +34,18 @@
     "icon": "https://booking.spryr.com/favicon-spryr.png",
     "slug": "spryr-booking",
     "status": "up",
-    "uptime": "95.71%",
-    "uptimeDay": "87.95%",
-    "uptimeWeek": "77.33%",
-    "uptimeMonth": "92.61%",
-    "uptimeYear": "95.71%",
+    "uptime": "95.69%",
+    "uptimeDay": "88.32%",
+    "uptimeWeek": "77.56%",
+    "uptimeMonth": "92.58%",
+    "uptimeYear": "95.69%",
     "time": 4202,
     "timeDay": 3093,
     "timeWeek": 3922,
-    "timeMonth": 4414,
+    "timeMonth": 4418,
     "timeYear": 4202,
     "dailyMinutesDown": {
-      "2025-04-05": 173,
+      "2025-04-05": 168,
       "2025-04-04": 125,
       "2025-04-03": 135,
       "2025-04-02": 143,
@@ -53,7 +53,7 @@
       "2025-03-31": 631,
       "2025-03-30": 729,
       "2025-03-29": 707,
-      "2025-03-28": 267
+      "2025-03-28": 287
     }
   },
   {
@@ -70,7 +70,7 @@
     "time": 361,
     "timeDay": 377,
     "timeWeek": 693,
-    "timeMonth": 465,
+    "timeMonth": 472,
     "timeYear": 361,
     "dailyMinutesDown": {
       "2025-03-23": 21,
@@ -92,7 +92,7 @@
     "time": 868,
     "timeDay": 657,
     "timeWeek": 1000,
-    "timeMonth": 641,
+    "timeMonth": 649,
     "timeYear": 868,
     "dailyMinutesDown": {
       "2025-03-22": 27,
@@ -113,7 +113,7 @@
     "time": 1011,
     "timeDay": 746,
     "timeWeek": 602,
-    "timeMonth": 591,
+    "timeMonth": 598,
     "timeYear": 1011,
     "dailyMinutesDown": {
       "2025-03-22": 26,
@@ -134,7 +134,7 @@
     "time": 1054,
     "timeDay": 710,
     "timeWeek": 567,
-    "timeMonth": 1340,
+    "timeMonth": 1367,
     "timeYear": 1054,
     "dailyMinutesDown": {
       "2025-03-23": 56,
@@ -156,7 +156,7 @@
     "time": 488,
     "timeDay": 463,
     "timeWeek": 542,
-    "timeMonth": 483,
+    "timeMonth": 484,
     "timeYear": 488,
     "dailyMinutesDown": {}
   },
@@ -173,8 +173,8 @@
     "uptimeYear": "100.00%",
     "time": 544,
     "timeDay": 559,
-    "timeWeek": 555,
-    "timeMonth": 543,
+    "timeWeek": 567,
+    "timeMonth": 542,
     "timeYear": 544,
     "dailyMinutesDown": {}
   },
