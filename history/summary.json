@@ -6,9 +6,9 @@
     "slug": "spryr-b2-b",
     "status": "up",
     "uptime": "92.18%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "92.18%",
     "time": 320,
     "timeDay": 311,
@@ -16,7 +16,6 @@
     "timeMonth": 749,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2025-07-11": 12,
       "2025-06-07": 144,
       "2025-06-06": 1165,
       "2025-06-05": 1244,
@@ -46,7 +45,7 @@
       "2025-04-03": 47,
       "2025-04-02": 15,
       "2025-04-01": 263,
-      "2025-03-31": 351
+      "2025-03-31": 374
     }
   },
   {
@@ -54,18 +53,19 @@
     "url": "https://booking.spryr.com",
     "icon": "https://booking.spryr.com/favicon-spryr.png",
     "slug": "spryr-booking",
-    "status": "up",
-    "uptime": "92.09%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "92.15%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "92.09%",
-    "time": 4149,
-    "timeDay": 5802,
-    "timeWeek": 4469,
-    "timeMonth": 5701,
-    "timeYear": 4149,
+    "uptimeYear": "92.15%",
+    "time": 4147,
+    "timeDay": 2949,
+    "timeWeek": 3923,
+    "timeMonth": 5536,
+    "timeYear": 4147,
     "dailyMinutesDown": {
+      "2025-07-11": 0,
       "2025-06-22": 32,
       "2025-06-07": 80,
       "2025-06-06": 1181,
@@ -92,8 +92,7 @@
       "2025-04-04": 125,
       "2025-04-03": 135,
       "2025-04-02": 143,
-      "2025-04-01": 323,
-      "2025-03-31": 16
+      "2025-04-01": 212
     }
   },
   {
