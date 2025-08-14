@@ -11,6 +11,10 @@ sites:
   #   url: https://booking.spryr.com
   #   icon: https://booking.spryr.com/favicon-spryr.png
   #   maxResponseTime: 15000
+  - name: Yourls
+    url: https://in.spryr.me/admin
+    icon: https://in.spryr.me/images/favicon.svg
+    maxResponseTime: 2000
   - name: CPanel
     url: https://cpanel.sharelifegateway.com/
     icon: https://cpanel.sharelifegateway.com/favicon.ico
