@@ -1,7 +1,7 @@
 url: https://in.spryr.me/admin
-status: degraded
-code: 503
-responseTime: 5454
-lastUpdated: 2025-09-04T15:51:54.015Z
+status: up
+code: 200
+responseTime: 1322
+lastUpdated: 2025-09-04T15:59:02.706Z
 startTime: 2025-08-14T08:06:44.054Z
 generator: Upptime <https://github.com/upptime/upptime>
