@@ -1,7 +1,7 @@
 url: https://vcsphereinsights.com
-status: up
-code: 200
-responseTime: 577
-lastUpdated: 2025-11-11T23:06:41.108Z
+status: down
+code: 502
+responseTime: 192
+lastUpdated: 2025-11-12T21:31:05.658Z
 startTime: 2025-02-12T13:50:07.538Z
 generator: Upptime <https://github.com/upptime/upptime>
