@@ -13,7 +13,7 @@
     "time": 476,
     "timeDay": 385,
     "timeWeek": 363,
-    "timeMonth": 311,
+    "timeMonth": 315,
     "timeYear": 476,
     "dailyMinutesDown": {
       "2025-09-03": 29,
@@ -39,7 +39,7 @@
     "uptimeYear": "99.93%",
     "time": 374,
     "timeDay": 286,
-    "timeWeek": 425,
+    "timeWeek": 417,
     "timeMonth": 386,
     "timeYear": 378,
     "dailyMinutesDown": {
@@ -66,7 +66,7 @@
     "uptimeYear": "99.92%",
     "time": 688,
     "timeDay": 631,
-    "timeWeek": 536,
+    "timeWeek": 508,
     "timeMonth": 501,
     "timeYear": 641,
     "dailyMinutesDown": {
@@ -94,7 +94,7 @@
     "uptimeYear": "99.90%",
     "time": 722,
     "timeDay": 562,
-    "timeWeek": 655,
+    "timeWeek": 652,
     "timeMonth": 609,
     "timeYear": 722,
     "dailyMinutesDown": {
@@ -113,10 +113,10 @@
     "url": "https://voyanto.net/",
     "icon": "https://voyanto.net/Content/Resources/blue.png",
     "slug": "voyanto-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "88.09%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "93.22%",
     "uptimeMonth": "96.48%",
     "uptimeYear": "99.53%",
     "time": 647,
@@ -125,6 +125,7 @@
     "timeMonth": 512,
     "timeYear": 647,
     "dailyMinutesDown": {
+      "2025-11-16": 0,
       "2025-11-09": 1217,
       "2025-11-08": 311,
       "2025-10-18": 16,
