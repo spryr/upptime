@@ -1,7 +1,7 @@
 url: https://voyanto.net/
-status: up
-code: 200
-responseTime: 279
-lastUpdated: 2025-11-20T02:21:29.954Z
+status: degraded
+code: 500
+responseTime: 11012
+lastUpdated: 2025-11-20T21:32:54.712Z
 startTime: 2025-02-12T13:50:06.564Z
 generator: Upptime <https://github.com/upptime/upptime>
