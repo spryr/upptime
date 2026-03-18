@@ -43,6 +43,15 @@ sites:
     url: https://lxtrinsights.com
     icon: https://lxtrinsights.com/wp-content/uploads/2025/01/cropped-lxtr-1-192x192.png
     maxResponseTime: 5000
+  - name: Resale VCSphere.vip
+    url: https://resale.vcsphere.vip/
+    maxResponseTime: 5000
+  - name: Resale LXTR
+    url: https://resale.lxtr.net/
+    maxResponseTime: 5000
+  - name: Resale Voyanto
+    url: https://resale.voyanto.net
+    maxResponseTime: 5000
 
 assignees:
   - geahaad
