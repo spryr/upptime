@@ -107,18 +107,18 @@
     "icon": "https://vcsphere.vip/Content/Resources/vcsphere_square_transparent_1.png",
     "slug": "vc-sphere-vip",
     "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "33.12%",
-    "uptimeWeek": "89.95%",
-    "uptimeMonth": "96.71%",
-    "uptimeYear": "99.53%",
+    "uptime": "99.62%",
+    "uptimeDay": "5.76%",
+    "uptimeWeek": "86.04%",
+    "uptimeMonth": "95.88%",
+    "uptimeYear": "99.45%",
     "time": 647,
     "timeDay": 345,
     "timeWeek": 434,
-    "timeMonth": 688,
+    "timeMonth": 567,
     "timeYear": 568,
     "dailyMinutesDown": {
-      "2026-04-09": 21,
+      "2026-04-09": 415,
       "2026-04-08": 942,
       "2026-04-07": 16,
       "2026-04-03": 33,
@@ -455,9 +455,9 @@
     "url": "https://resale.lxtr.net/",
     "icon": "https://icons.duckduckgo.com/ip3/resale.lxtr.net.ico",
     "slug": "resale-lxtr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -466,7 +466,9 @@
     "timeWeek": 1010,
     "timeMonth": 1035,
     "timeYear": 1035,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-09": 0
+    }
   },
   {
     "name": "Resale Voyanto",
