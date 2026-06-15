@@ -54,10 +54,10 @@
     "url": "https://cpanel.sharelifegateway.com/",
     "icon": "https://cpanel.sharelifegateway.com/favicon.ico",
     "slug": "c-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "92.12%",
-    "uptimeWeek": "97.64%",
+    "uptimeDay": "91.91%",
+    "uptimeWeek": "97.61%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "99.66%",
     "time": 373,
@@ -118,7 +118,7 @@
       "2026-06-07": 68,
       "2026-06-10": 92,
       "2026-06-12": 33,
-      "2026-06-15": 114
+      "2026-06-15": 117
     }
   },
   {
@@ -126,11 +126,11 @@
     "url": "https://vcsphere.vip/",
     "icon": "https://vcsphere.vip/Content/Resources/vcsphere_square_transparent_1.png",
     "slug": "vc-sphere-vip",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "92.20%",
-    "uptimeWeek": "97.67%",
-    "uptimeMonth": "99.02%",
+    "uptimeDay": "92.06%",
+    "uptimeWeek": "97.64%",
+    "uptimeMonth": "99.01%",
     "uptimeYear": "99.38%",
     "time": 594,
     "timeDay": 473,
@@ -194,7 +194,7 @@
       "2026-06-07": 65,
       "2026-06-10": 91,
       "2026-06-12": 32,
-      "2026-06-15": 112
+      "2026-06-15": 114
     }
   },
   {
@@ -202,11 +202,11 @@
     "url": "https://lxtr.net/",
     "icon": "https://lxtr.net/Content/Resources/lxtrqr3.jpg",
     "slug": "lxtr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "92.29%",
-    "uptimeWeek": "97.69%",
-    "uptimeMonth": "99.09%",
+    "uptimeDay": "92.20%",
+    "uptimeWeek": "97.68%",
+    "uptimeMonth": "99.08%",
     "uptimeYear": "99.67%",
     "time": 671,
     "timeDay": 496,
@@ -265,7 +265,7 @@
       "2026-06-07": 63,
       "2026-06-10": 90,
       "2026-06-12": 31,
-      "2026-06-15": 111
+      "2026-06-15": 112
     }
   },
   {
@@ -273,10 +273,10 @@
     "url": "https://voyanto.net/",
     "icon": "https://voyanto.net/Content/Resources/blue.png",
     "slug": "voyanto-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "92.37%",
-    "uptimeWeek": "97.06%",
+    "uptimeDay": "92.34%",
+    "uptimeWeek": "97.05%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "99.39%",
     "time": 607,
@@ -512,11 +512,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/resale.lxtr.net.ico",
     "slug": "resale-lxtr",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.50%",
     "time": 987,
     "timeDay": 1297,
     "timeWeek": 878,
