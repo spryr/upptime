@@ -54,11 +54,11 @@
     "url": "https://cpanel.sharelifegateway.com/",
     "icon": "https://cpanel.sharelifegateway.com/favicon.ico",
     "slug": "c-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "97.34%",
-    "uptimeWeek": "96.96%",
-    "uptimeMonth": "98.75%",
+    "uptimeDay": "97.06%",
+    "uptimeWeek": "96.92%",
+    "uptimeMonth": "98.74%",
     "uptimeYear": "99.63%",
     "time": 373,
     "timeDay": 193,
@@ -119,7 +119,8 @@
       "2026-06-10": 92,
       "2026-06-12": 33,
       "2026-06-15": 236,
-      "2026-06-17": 38
+      "2026-06-17": 38,
+      "2026-06-18": 4
     }
   },
   {
@@ -127,10 +128,10 @@
     "url": "https://vcsphere.vip/",
     "icon": "https://vcsphere.vip/Content/Resources/vcsphere_square_transparent_1.png",
     "slug": "vc-sphere-vip",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "97.39%",
-    "uptimeWeek": "97.00%",
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "96.97%",
     "uptimeMonth": "98.77%",
     "uptimeYear": "99.35%",
     "time": 594,
@@ -196,7 +197,8 @@
       "2026-06-10": 91,
       "2026-06-12": 32,
       "2026-06-15": 233,
-      "2026-06-17": 38
+      "2026-06-17": 38,
+      "2026-06-18": 3
     }
   },
   {
@@ -204,10 +206,10 @@
     "url": "https://lxtr.net/",
     "icon": "https://lxtr.net/Content/Resources/lxtrqr3.jpg",
     "slug": "lxtr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "97.45%",
-    "uptimeWeek": "97.03%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "97.02%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "99.64%",
     "time": 675,
@@ -268,7 +270,8 @@
       "2026-06-10": 90,
       "2026-06-12": 31,
       "2026-06-15": 231,
-      "2026-06-17": 37
+      "2026-06-17": 37,
+      "2026-06-18": 2
     }
   },
   {
@@ -276,10 +279,10 @@
     "url": "https://voyanto.net/",
     "icon": "https://voyanto.net/Content/Resources/blue.png",
     "slug": "voyanto-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "97.49%",
-    "uptimeWeek": "97.07%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "97.06%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "99.36%",
     "time": 606,
@@ -340,7 +343,8 @@
       "2026-06-10": 156,
       "2026-06-12": 30,
       "2026-06-15": 229,
-      "2026-06-17": 36
+      "2026-06-17": 36,
+      "2026-06-18": 0
     }
   },
   {
