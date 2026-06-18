@@ -54,16 +54,16 @@
     "url": "https://cpanel.sharelifegateway.com/",
     "icon": "https://cpanel.sharelifegateway.com/favicon.ico",
     "slug": "c-panel",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "97.06%",
-    "uptimeWeek": "96.92%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "99.63%",
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "92.11%",
+    "uptimeWeek": "96.21%",
+    "uptimeMonth": "98.58%",
+    "uptimeYear": "99.62%",
     "time": 373,
-    "timeDay": 193,
-    "timeWeek": 270,
-    "timeMonth": 264,
+    "timeDay": 336,
+    "timeWeek": 289,
+    "timeMonth": 269,
     "timeYear": 366,
     "dailyMinutesDown": {
       "2025-10-18": 16,
@@ -120,7 +120,7 @@
       "2026-06-12": 33,
       "2026-06-15": 236,
       "2026-06-17": 38,
-      "2026-06-18": 4
+      "2026-06-18": 75
     }
   },
   {
@@ -128,16 +128,16 @@
     "url": "https://vcsphere.vip/",
     "icon": "https://vcsphere.vip/Content/Resources/vcsphere_square_transparent_1.png",
     "slug": "vc-sphere-vip",
-    "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "97.19%",
-    "uptimeWeek": "96.97%",
-    "uptimeMonth": "98.77%",
-    "uptimeYear": "99.35%",
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "92.23%",
+    "uptimeWeek": "96.26%",
+    "uptimeMonth": "98.60%",
+    "uptimeYear": "99.34%",
     "time": 594,
-    "timeDay": 369,
-    "timeWeek": 466,
-    "timeMonth": 493,
+    "timeDay": 586,
+    "timeWeek": 497,
+    "timeMonth": 501,
     "timeYear": 533,
     "dailyMinutesDown": {
       "2025-07-09": 27,
@@ -198,7 +198,7 @@
       "2026-06-12": 32,
       "2026-06-15": 233,
       "2026-06-17": 38,
-      "2026-06-18": 3
+      "2026-06-18": 74
     }
   },
   {
@@ -206,16 +206,16 @@
     "url": "https://lxtr.net/",
     "icon": "https://lxtr.net/Content/Resources/lxtrqr3.jpg",
     "slug": "lxtr",
-    "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "97.34%",
-    "uptimeWeek": "97.02%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "99.64%",
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "92.38%",
+    "uptimeWeek": "96.31%",
+    "uptimeMonth": "98.63%",
+    "uptimeYear": "99.62%",
     "time": 675,
-    "timeDay": 413,
-    "timeWeek": 847,
-    "timeMonth": 691,
+    "timeDay": 568,
+    "timeWeek": 836,
+    "timeMonth": 692,
     "timeYear": 640,
     "dailyMinutesDown": {
       "2025-07-09": 26,
@@ -271,7 +271,7 @@
       "2026-06-12": 31,
       "2026-06-15": 231,
       "2026-06-17": 37,
-      "2026-06-18": 2
+      "2026-06-18": 73
     }
   },
   {
@@ -279,16 +279,16 @@
     "url": "https://voyanto.net/",
     "icon": "https://voyanto.net/Content/Resources/blue.png",
     "slug": "voyanto-net",
-    "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "97.46%",
-    "uptimeWeek": "97.06%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "99.36%",
+    "status": "up",
+    "uptime": "99.47%",
+    "uptimeDay": "92.51%",
+    "uptimeWeek": "96.36%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "99.34%",
     "time": 606,
-    "timeDay": 396,
-    "timeWeek": 512,
-    "timeMonth": 596,
+    "timeDay": 532,
+    "timeWeek": 526,
+    "timeMonth": 598,
     "timeYear": 563,
     "dailyMinutesDown": {
       "2025-07-09": 24,
@@ -344,7 +344,7 @@
       "2026-06-12": 30,
       "2026-06-15": 229,
       "2026-06-17": 36,
-      "2026-06-18": 0
+      "2026-06-18": 72
     }
   },
   {
