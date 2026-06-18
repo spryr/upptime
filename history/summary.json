@@ -54,11 +54,11 @@
     "url": "https://cpanel.sharelifegateway.com/",
     "icon": "https://cpanel.sharelifegateway.com/favicon.ico",
     "slug": "c-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "92.11%",
-    "uptimeWeek": "96.21%",
-    "uptimeMonth": "98.58%",
+    "uptimeDay": "91.90%",
+    "uptimeWeek": "96.19%",
+    "uptimeMonth": "98.57%",
     "uptimeYear": "99.62%",
     "time": 373,
     "timeDay": 336,
@@ -120,7 +120,7 @@
       "2026-06-12": 33,
       "2026-06-15": 236,
       "2026-06-17": 38,
-      "2026-06-18": 75
+      "2026-06-18": 78
     }
   },
   {
@@ -128,10 +128,10 @@
     "url": "https://vcsphere.vip/",
     "icon": "https://vcsphere.vip/Content/Resources/vcsphere_square_transparent_1.png",
     "slug": "vc-sphere-vip",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "92.23%",
-    "uptimeWeek": "96.26%",
+    "uptimeDay": "92.09%",
+    "uptimeWeek": "96.24%",
     "uptimeMonth": "98.60%",
     "uptimeYear": "99.34%",
     "time": 594,
@@ -198,7 +198,7 @@
       "2026-06-12": 32,
       "2026-06-15": 233,
       "2026-06-17": 38,
-      "2026-06-18": 74
+      "2026-06-18": 76
     }
   },
   {
@@ -206,10 +206,10 @@
     "url": "https://lxtr.net/",
     "icon": "https://lxtr.net/Content/Resources/lxtrqr3.jpg",
     "slug": "lxtr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "92.38%",
-    "uptimeWeek": "96.31%",
+    "uptimeDay": "92.29%",
+    "uptimeWeek": "96.30%",
     "uptimeMonth": "98.63%",
     "uptimeYear": "99.62%",
     "time": 675,
@@ -271,7 +271,7 @@
       "2026-06-12": 31,
       "2026-06-15": 231,
       "2026-06-17": 37,
-      "2026-06-18": 73
+      "2026-06-18": 74
     }
   },
   {
@@ -279,10 +279,10 @@
     "url": "https://voyanto.net/",
     "icon": "https://voyanto.net/Content/Resources/blue.png",
     "slug": "voyanto-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "92.51%",
-    "uptimeWeek": "96.36%",
+    "uptimeDay": "92.48%",
+    "uptimeWeek": "96.35%",
     "uptimeMonth": "98.51%",
     "uptimeYear": "99.34%",
     "time": 606,
