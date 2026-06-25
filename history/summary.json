@@ -129,17 +129,17 @@
     "url": "https://vcsphere.vip/",
     "icon": "https://vcsphere.vip/Content/Resources/vcsphere_square_transparent_1.png",
     "slug": "vc-sphere-vip",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.56%",
-    "uptimeDay": "96.50%",
-    "uptimeWeek": "98.25%",
+    "uptimeDay": "96.43%",
+    "uptimeWeek": "98.24%",
     "uptimeMonth": "98.37%",
     "uptimeYear": "99.32%",
-    "time": 603,
-    "timeDay": 875,
-    "timeWeek": 1143,
-    "timeMonth": 654,
-    "timeYear": 544,
+    "time": 597,
+    "timeDay": 2370,
+    "timeWeek": 1526,
+    "timeMonth": 766,
+    "timeYear": 553,
     "dailyMinutesDown": {
       "2025-07-09": 27,
       "2025-09-09": 34,
@@ -200,7 +200,8 @@
       "2026-06-15": 233,
       "2026-06-17": 38,
       "2026-06-18": 125,
-      "2026-06-24": 50
+      "2026-06-24": 50,
+      "2026-06-25": 1
     }
   },
   {
