@@ -4,16 +4,16 @@
     "url": "https://in.spryr.me/admin",
     "icon": "https://in.spryr.me/images/favicon.svg",
     "slug": "yourls",
-    "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.56%",
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "86.17%",
+    "uptimeWeek": "98.02%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.52%",
     "time": 463,
-    "timeDay": 166,
-    "timeWeek": 231,
-    "timeMonth": 237,
+    "timeDay": 247,
+    "timeWeek": 251,
+    "timeMonth": 242,
     "timeYear": 463,
     "dailyMinutesDown": {
       "2025-08-16": 35,
@@ -47,7 +47,7 @@
       "2026-05-07": 54,
       "2026-05-12": 51,
       "2026-05-20": 55,
-      "2026-07-03": 1
+      "2026-07-03": 199
     }
   },
   {
