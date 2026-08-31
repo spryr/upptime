@@ -25,6 +25,14 @@ sites:
     url: https://cpanel.sharelifegateway.com/
     icon: https://cpanel.sharelifegateway.com/favicon.ico
     maxResponseTime: 5000
+  - name: CPanel Voyanto
+    url: https://crm.voyanto.net
+    icon: https://cpanel.sharelifegateway.com/favicon.ico
+    maxResponseTime: 5000
+  - name: Dash Voyanto
+    url: https://dash.voyanto.net
+    icon: https://cpanel.sharelifegateway.com/favicon.ico
+    maxResponseTime: 5000
   - name: VCSphere.vip
     url: https://vcsphere.vip/
     icon: https://vcsphere.vip/Content/Resources/vcsphere_square_transparent_1.png
