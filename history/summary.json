@@ -526,16 +526,16 @@
     "url": "https://voyanto.net/",
     "icon": "https://voyanto.net/Content/Resources/blue.png",
     "slug": "voyanto-net",
-    "status": "degraded",
-    "uptime": "99.52%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.31%",
+    "status": "up",
+    "uptime": "99.49%",
+    "uptimeDay": "82.81%",
+    "uptimeWeek": "97.54%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.26%",
     "time": 635,
-    "timeDay": 6725,
-    "timeWeek": 2097,
-    "timeMonth": 889,
+    "timeDay": 4625,
+    "timeWeek": 1911,
+    "timeMonth": 877,
     "timeYear": 653,
     "dailyMinutesDown": {
       "2025-10-18": 16,
@@ -596,7 +596,7 @@
       "2026-08-18": 27,
       "2026-08-20": 16,
       "2026-08-24": 18,
-      "2026-09-10": 1
+      "2026-09-10": 248
     }
   },
   {
